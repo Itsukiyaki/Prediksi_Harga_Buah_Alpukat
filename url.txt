@@ -1,0 +1,5 @@
+URL Dataset:
+https://www.kaggle.com/datasets/neuromusic/avocado-prices
+
+URL deployment:
+https://huggingface.co/spaces/eldim/Prediksi_Harga_Alpukat
