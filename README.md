@@ -9,8 +9,8 @@
 5. description.md - Deskripsi dan dokumentasi project
 6. eda.py - Script untuk exploratory data analysis
 7. images.jpg - Gambar yang digunakan dalam project
-8. P1M2_eldi_inf.ipynb - Notebook untuk inference model
-9. P1M2_eldi.ipynb - Notebook untuk pengolahan data dan training model
+8. eldi_inf.ipynb - Notebook untuk inference model
+9. eldi.ipynb - Notebook untuk pengolahan data dan training model
 10. prediction.py - Script untuk prediksi harga jual buah alpukat
 11. requirements.txt - Daftar dependencies yang dibutuhkan
 12. url.txt - File yang berisi URL terkait project
